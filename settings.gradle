@@ -1,0 +1,2 @@
+rootProject.name='earthquakeusgs'
+include ':app'
